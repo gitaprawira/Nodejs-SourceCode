@@ -1,0 +1,29 @@
+{
+  "name": "cryptogenius",
+  "version": "1.0.0",
+  "description": "Signals for Cryptocurrency",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitaprawira/cryptogenius.git"
+  },
+  "author": "Craftsoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitaprawira/cryptogenius/issues"
+  },
+  "homepage": "https://github.com/gitaprawira/cryptogenius#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-ejs-layouts": "^2.3.1",
+    "mongodb": "^2.2.33",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.4.5"
+  }
+}
